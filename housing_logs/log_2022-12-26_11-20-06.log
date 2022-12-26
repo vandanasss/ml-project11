@@ -1,0 +1,1 @@
+[2022-12-26 11:20:06,597]^;INFO^;225^;configuration.py^;get_training_pipeline_config()^;Training pipleine config: TrainingPipelineConfig(artifact_dir='c:\\Users\\samat\\ml-project11\\housing\\artifact')
